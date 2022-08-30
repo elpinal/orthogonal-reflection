@@ -1,0 +1,10 @@
+include:
+  .
+depend:
+  cubical
+  agda-categories
+flags:
+  --safe
+  --without-K
+  --exact-split
+  --cubical
